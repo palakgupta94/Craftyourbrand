@@ -1,5 +1,6 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/AMM02122.jpg");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/AMM02122.jpg');
+  background-position: 50% 50%;
 }
 
 @media (max-width: 575px) {
@@ -182,13 +183,13 @@
 .u-section-3 .u-text-2 {
   font-weight: 700;
   font-size: 1.375rem;
-  margin: -39px -27px 0 58px;
+  margin: -39px -26px 0 57px;
 }
 
 .u-section-3 .u-text-3 {
   font-size: 1rem;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  margin: 12px 0 0 57px;
+  margin: 11px 0 0 57px;
 }
 
 .u-section-3 .u-list-item-2 {
@@ -213,12 +214,12 @@
 .u-section-3 .u-text-4 {
   font-weight: 700;
   font-size: 1.375rem;
-  margin: -39px -27px 0 58px;
+  margin: -39px -26px 0 57px;
 }
 
 .u-section-3 .u-text-5 {
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  margin: 12px 0 0 57px;
+  margin: 11px 0 0 57px;
 }
 
 .u-section-3 .u-list-item-3 {
@@ -243,14 +244,14 @@
 .u-section-3 .u-text-6 {
   font-weight: 700;
   font-size: 1.375rem;
-  margin: -39px -27px 0 58px;
+  margin: -39px -26px 0 57px;
 }
 
 .u-section-3 .u-text-7 {
   font-size: 1rem;
   font-style: normal;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  margin: 12px 0 0 57px;
+  margin: 11px 0 0 57px;
 }
 
 .u-section-3 .u-list-item-4 {
@@ -275,14 +276,14 @@
 .u-section-3 .u-text-8 {
   font-weight: 700;
   font-size: 1.375rem;
-  margin: -39px -27px 0 58px;
+  margin: -39px -26px 0 57px;
 }
 
 .u-section-3 .u-text-9 {
   font-size: 1rem;
   font-style: normal;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  margin: 12px 0 0 57px;
+  margin: 11px 0 0 57px;
 }
 
 .u-section-3 .u-list-item-5 {
@@ -307,14 +308,14 @@
 .u-section-3 .u-text-10 {
   font-weight: 700;
   font-size: 1.375rem;
-  margin: -39px -27px 0 58px;
+  margin: -39px -26px 0 57px;
 }
 
 .u-section-3 .u-text-11 {
   font-size: 1rem;
   font-style: normal;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  margin: 12px 0 0 57px;
+  margin: 11px 0 0 57px;
 }
 
 .u-section-3 .u-list-item-6 {
@@ -339,14 +340,14 @@
 .u-section-3 .u-text-12 {
   font-weight: 700;
   font-size: 1.375rem;
-  margin: -39px -27px 0 58px;
+  margin: -39px -26px 0 57px;
 }
 
 .u-section-3 .u-text-13 {
   font-size: 1rem;
   font-style: normal;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  margin: 12px 0 0 57px;
+  margin: 11px 0 0 57px;
 }
 
 @media (max-width: 1199px) {
